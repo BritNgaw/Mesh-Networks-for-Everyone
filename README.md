@@ -27,6 +27,6 @@ Mesh networks aren’t just a technical idea—they depend on participation, pla
 ## How to run locally
 
 ```bash
-unzip mesh-network-website-responsive-v2.zip
+unzip mesh-network-website-mobile-animations.zip
 cd mesh-network-website-standout-v3
 python3 -m http.server 8000
